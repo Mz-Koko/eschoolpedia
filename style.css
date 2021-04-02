@@ -353,6 +353,108 @@ footer h5 {
     nav {
         display: flex;
     }
+    .section-row {
+        width: 100%;
+        margin-top: 10px
+    }
+    .growth-section p {
+        font-size: 13px;
+    }
+    .growth-section br {
+        display: none;
+    }
+    .growth-section h2 {
+        font-size: 22px;
+    }
+    .border-box {
+        text-align: center;
+        height: initial;
+        width: 100%;
+        padding: 0;
+        background: unset;
+        box-shadow: unset;
+    }
+    .value-info img {
+        /* position: unset; */
+        
+        left: 39.2%;
+        top: 12.44%;
+        height: 23px;
+    }
+    .value-text {
+        font-size: 16px;
+        margin-top: 0;
+    }
+    .value-info {
+        height: 59px;
+        width: 59px;
+    }
+    .container-fluid {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .unique-features {
+        background: #C2CFDC;
+        position: unset;
+        top: unset;
+        z-index: -10;
+        height: unset;
+        margin-bottom: 0;
+        padding-bottom: 25px;
+    }
+    .unique-container {
+        display: grid;
+        grid-template-columns: unset;
+        padding-top: 20px;
+    }
+    .unique-container h2 {
+        color: rgba(51, 51, 51, 0.69);
+        font-size: 24px;
+    }
+    .unique-box {
+        height: unset;
+        margin-bottom: 35px;
+    }
+    .unique-foot {
+        font-weight: 600;
+        top: 154px;
+    }
+    .unique-body {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 13px;
+    }
+    .unique-box-1 p {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .unique-box-1 {
+        width: unset;
+        padding: 45px 0;
+    }
+    .unique-box-1 h2 {
+        color: #000000;
+        font-size: 24px;
+    }
+    .btn.btn-success-2 {
+        background-color: #FFFFFF;
+        width: 163px;
+        height: 63px;
+        border: 2px solid #00386E;
+        box-sizing: border-box;
+        border-radius: 5px;
+    }
+    .container-fluid.nav-box {
+        padding-bottom: 10px;
+    }
     .fa-bars {
         color: #3CB161;
     }
@@ -461,4 +563,8 @@ footer h5 {
 }
 @media screen and (max-width: 1200px) {
     /* start of large large devices */
+}
+
+/* start of large large devices */
+
 }
