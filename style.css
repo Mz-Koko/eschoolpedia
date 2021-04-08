@@ -419,6 +419,10 @@ footer h5 {
         font-weight: 600;
         top: 154px;
     }
+    .unique-foot i.fa {
+        margin-left: 6px;
+        vertical-align: middle;
+    }
     .unique-body {
         display: -webkit-box;
         -webkit-box-orient: vertical;
